@@ -46,7 +46,7 @@ I'm Full Stack Developer! :bearded_person: :computer:
   - **duration**: 2018/04/10 - 2018/08/10 :timer_clock: :calendar:
 
 ## Academic Degree:
-- Bachelor degree in Computer Science from Federal University of Sergipe (UFS) in 2018.
+- Bachelor degree in Computer Science from Federal University of Sergipe (UFS) in 2019.
 - Attending Masters Degree in Computer Science at Federal University of Sergipe (UFS). 
 
 ## Contact:
