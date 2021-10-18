@@ -36,14 +36,14 @@ I'm Full Stack Developer! :bearded_person: :computer:
 <code><img height="20"	src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
 
 ## Career:
-- Parque Tecnológico de Sergipe (**SergipeTec**):
-   - **duration**: 2021/07/12 - actual :timer_clock: :calendar:
+- Parque Tecnológico de Sergipe (**SergipeTec**): <br>
+   **duration**: 2021/07/12 - actual :timer_clock: :calendar:
 
-- **Info W Software**:
-  - **duration**: 2020/02/17 - 2021/07/09 :timer_clock: :calendar:
+- **Info W Software**: <br>
+  **duration**: 2020/02/17 - 2021/07/09 :timer_clock: :calendar:
   
-- **FabTech**: (traineeship)
-  - **duration**: 2018/04/10 - 2018/08/10 :timer_clock: :calendar:
+- **FabTech**: (traineeship) <br>
+  **duration**: 2018/04/10 - 2018/08/10 :timer_clock: :calendar:
 
 ## Academic Degree:
 - Bachelor degree in Computer Science from Federal University of Sergipe (UFS) in 2019.
