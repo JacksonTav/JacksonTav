@@ -5,7 +5,7 @@
 I’m from Brazil. :globe_with_meridians: :brazil: <br>
 I'm Full Stack Developer! :bearded_person: :computer:
 
-## About me
+## About me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JacksonTav)](https://github.com/JacksonTav)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-tavares-01899b116/)](https://www.linkedin.com/in/jackson-tavares-01899b116/)
