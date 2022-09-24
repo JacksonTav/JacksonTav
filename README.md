@@ -48,8 +48,9 @@ I'm Full Stack Developer! :bearded_person: :computer:
 
 ## Academic Degree
 - Bachelor degree in Computer Science from Federal University of Sergipe (UFS) in 2019.
-- Attending Masters Degree in Computer Science at UFS. <br>
-     <em>Container Orchestration with kubernetes</em> 
+- Master in Computer Science at UFS in 2022, focusing on <em>Performance Evaluation and Software Aging in
+Orchestrating Containers with Kubernetes.</em>
+
 
 ## Contact
 :mailbox: jacksontav@hotmail.com <br>
